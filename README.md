@@ -2,14 +2,42 @@
 
 This responsitory make rocords of my previous outcomes
 
-## Wide&Deep
+## Knowledge Graph
+
+### TransE
+https://github.com/Ancientshi/TransE_AmazonProduct
+
+
+### ConvKB
+
+- https://github.com/Ancientshi/convKB-kerasVersion
+- https://github.com/Ancientshi/ConvKB-OneFlow-
+
+## Recommender System
+
+### DNN
+
+https://oneflow.cloud/drill/#/project/public/code?id=aa4f234b5df69c36e285a92d7cba8dcc
+https://github.com/Ancientshi/CTR_Wechat_Contest
+
+### Wide&Deep
 
 - https://github.com/Oneflow-Inc/models/tree/67990545bfdb0dad63dcec2d5097cca1a35b4b91/RecommenderSystems/wide_and_deep
 - https://github.com/Oneflow-Inc/OneFlow-Benchmark/tree/wdl_test_all_v2
+- https://github.com/Oneflow-Inc/models/pull/189
 
-## dlrm
+### DLRM
 
 https://github.com/Ancientshi/dlrm/blob/master/README.md
+
+
+## Other DeepLearning
+
+项目 | URL |
+SRGAN训练 | https://oneflow.cloud/drill/#/project/public/code?id=e85fd5482ce2d65472656c2002cba44b |
+SRGAN部署推理 | https://oneflow.cloud/drill/#/project/public/code?id=0036531037c230ffbc94a975af5cd09e
+LSTM预测空气质量 | https://oneflow.cloud/drill/#/project/public/code?id=2c3517658a6aca7ce79885f27f2e50e6
+LSTM邮政局包裹量预测 | https://github.com/Ancientshi/LSTM-TimeSequencePrediction
 
 ## MachineLearning
 
@@ -32,3 +60,10 @@ LogicRegression   | https://github.com/Ancientshi/LogicRegression  |石韵虓  |
 GradientDesent  | https://github.com/Ancientshi/GradientDesent |石韵虓  |
 NaiveBayes  |https://github.com/Ancientshi/NaiveBayes |石韵虓  |石韵虓|
 SVM |https://github.com/Ancientshi/SVM |石韵虓  |
+
+## Math Modeling 
+
+### AHP 决策系统等
+
+https://github.com/Ancientshi/AHP-JS-version
+https://github.com/Ancientshi/AHP
