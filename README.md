@@ -30,16 +30,15 @@ https://github.com/Ancientshi/CTR_Wechat_Contest
 
 https://github.com/Ancientshi/dlrm/blob/master/README.md
 
-
 ## Other DeepLearning
 
 项目 | URL |
 SRGAN训练 | https://oneflow.cloud/drill/#/project/public/code?id=e85fd5482ce2d65472656c2002cba44b |
-SRGAN部署推理 | https://oneflow.cloud/drill/#/project/public/code?id=0036531037c230ffbc94a975af5cd09e
-LSTM预测空气质量 | https://oneflow.cloud/drill/#/project/public/code?id=2c3517658a6aca7ce79885f27f2e50e6
-LSTM邮政局包裹量预测 | https://github.com/Ancientshi/LSTM-TimeSequencePrediction
-多分类行程轨迹预测 | https://oneflow.cloud/drill/#/project/public/code?id=873c598996c8ae40d494fe51bd716dc0
-车流量预测 | https://oneflow.cloud/drill/#/project/public/code?id=f888c54c2ba299cbc8b736d780a7c5c1
+SRGAN部署推理 | https://oneflow.cloud/drill/#/project/public/code?id=0036531037c230ffbc94a975af5cd09e|
+LSTM预测空气质量 | https://oneflow.cloud/drill/#/project/public/code?id=2c3517658a6aca7ce79885f27f2e50e6|
+LSTM邮政局包裹量预测 | https://github.com/Ancientshi/LSTM-TimeSequencePrediction|
+多分类行程轨迹预测 | https://oneflow.cloud/drill/#/project/public/code?id=873c598996c8ae40d494fe51bd716dc0|
+车流量预测 | https://oneflow.cloud/drill/#/project/public/code?id=f888c54c2ba299cbc8b736d780a7c5c1|
 
 ## MachineLearning
 
