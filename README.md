@@ -4,8 +4,8 @@ This responsitory make rocords of my previous outcomes
 
 ## Wide&Deep
 
-https://github.com/Oneflow-Inc/models/tree/67990545bfdb0dad63dcec2d5097cca1a35b4b91/RecommenderSystems/wide_and_deep
-http://tianshu.org.cn/model
+- https://github.com/Oneflow-Inc/models/tree/67990545bfdb0dad63dcec2d5097cca1a35b4b91/RecommenderSystems/wide_and_deep
+- https://github.com/Oneflow-Inc/OneFlow-Benchmark/tree/wdl_test_all_v2
 
 ## dlrm
 
